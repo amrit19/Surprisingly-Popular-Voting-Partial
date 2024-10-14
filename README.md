@@ -1,4 +1,4 @@
-# Surprisingly-Popular-Voting-Partial
+# Surprisingly-Popular-Voting-Partial (Dataset)
 This repository contains a preference dataset collected for assessing ground truth recovery using SP-Voting. This dataset was collected as part of the research work "The Surprising Effectiveness of SP Voting with Partial Preferences". The full paper can be found here - https://arxiv.org/abs/2406.00870 
 
 The dataset contains data collected from three domains:
